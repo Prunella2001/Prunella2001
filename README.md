@@ -1,6 +1,5 @@
-# Hi, I'm Prunella 👋🏾
+# Hi, I'm Prunella 👋🏾 I used to analyse systems. Now, I build better ones.
 
-**Applied Data Scientist & AI Systems**
 
 I combine data science, AI, and systems thinking to build products that help people and organizations make better decisions.
 
