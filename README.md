@@ -11,7 +11,7 @@ My current work sits at the intersection of **trustworthy AI, climate intelligen
 
 ### 🛠️ What I'm Actively Building & Deploying
 
-#### 📚 [Sustainability Intelligence Assistant (RAG)]([https://github.com/Prunella2001/sustainability-rag-system])
+#### 📚 [Sustainability Intelligence Assistant (RAG)](https://github.com/Prunella2001/sustainability-rag-system)
 *   **The Goal:** A modular, trustworthy Retrieval-Augmented Generation system designed to make complex climate policy and information accessible to simple users and eliminate LLM hallucinations.
 *   **The Tech:** Python • LangChain • FAISS • BM25 • TruLens Evaluation • OpenAI • Streamlit
 *   **Key Focus:** Implemented hybrid search and cross-encoder reranking. Benchmarked the system using TruLens (**0.75 Groundedness, 0.83 Context Relevance**), actively profiling chunking strategies to optimize latency.
@@ -44,6 +44,6 @@ My current work sits at the intersection of **trustworthy AI, climate intelligen
 ---
 
 ### 📫 Let's Connect!
-*   💼 **LinkedIn:** [Prunella DOUSSO]([https://www.linkedin.com/in/prunella-dousso-085aa9207/])
+*   💼 **LinkedIn:** [Prunella DOUSSO](https://www.linkedin.com/in/prunella-dousso-085aa9207/)
 *   📧 **Email:** doussoe@gmail.com
 *   💬 Always excited to chat about **climate/human-centred tech, trustworthy AI, product optimization, or creative engineering systems.**
