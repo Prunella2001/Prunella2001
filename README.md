@@ -1,7 +1,7 @@
 # Hi, I'm Prunella 👋🏾
 
 ### Data Scientist & Machine Learning Engineer (in-the-making)
-*"I used to analyze systems. Now I build better ones."*
+*I used to analyze systems. Now I build better ones.*
 
 I combine software engineering fundamentals, applied AI, and systems thinking to build intelligent products that scale. Backed by a project-based software engineering foundation (**BSc, EPITECH**), I thrive in executing complex concepts. I don't just research and understand them; I build, evaluate, and deploy.
 
