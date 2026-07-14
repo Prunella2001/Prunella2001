@@ -16,7 +16,7 @@ My current work sits at the intersection of **trustworthy AI, climate intelligen
 *   **The Tech:** Python • LangChain • FAISS • BM25 • TruLens Evaluation • OpenAI • Streamlit
 *   **Key Focus:** Implemented hybrid search and cross-encoder reranking. Benchmarked the system using TruLens (**0.75 Groundedness, 0.83 Context Relevance**), actively profiling chunking strategies to optimize latency.
 
-#### 🌍 [Interpretable Geospatial AI for Climate Risk] - Ongoing
+#### 🌍 Interpretable Geospatial AI for Climate Risk - Ongoing
 *   **The Goal:** My Master's Thesis project developing an ML-based Heat Vulnerability Index to replace legacy statistical baselines (PCA) with a high-fidelity risk framework, while also improving the predictive and intervention optimisation models for better management of heat waves.
 *   **The Tech:** Python • XGBoost • LightGBM • SHAP • GeoPandas • Rasterio • Optimization
 *   **Key Focus:** Integrating multi-source remote sensing data for localized heat prediction and formulating a constrained mathematical optimization framework to dynamically allocate urban cooling budgets.
